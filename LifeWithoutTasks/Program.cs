@@ -39,7 +39,7 @@ class Program
         for (int i = 0; i < tasks.Length; i++)
         {
             int id = i;
-            tasks[i] = Task.Run(() => MethodHelper.Md5Loop($"Task-{id}", token), token);
+            tasks[i] = Task.Run(() => MethodHelper.Md5Loop($"Task-{id}", token));
         }
 
         try

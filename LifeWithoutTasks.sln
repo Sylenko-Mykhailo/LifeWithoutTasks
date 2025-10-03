@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeWithoutTasks", "LifeWithoutTasks\LifeWithoutTasks.csproj", "{BC9C156A-6179-4E08-A7E3-4C6487CAD496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSList", "TSList\TSList.csproj", "{21BE3FC3-D64E-4591-A6C6-4A31483D9789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async lock", "Async lock\Async lock.csproj", "{D87FAB3A-655A-475B-9214-6245AEDA40EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{BC9C156A-6179-4E08-A7E3-4C6487CAD496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC9C156A-6179-4E08-A7E3-4C6487CAD496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC9C156A-6179-4E08-A7E3-4C6487CAD496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BE3FC3-D64E-4591-A6C6-4A31483D9789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BE3FC3-D64E-4591-A6C6-4A31483D9789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BE3FC3-D64E-4591-A6C6-4A31483D9789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BE3FC3-D64E-4591-A6C6-4A31483D9789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87FAB3A-655A-475B-9214-6245AEDA40EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87FAB3A-655A-475B-9214-6245AEDA40EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87FAB3A-655A-475B-9214-6245AEDA40EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87FAB3A-655A-475B-9214-6245AEDA40EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
